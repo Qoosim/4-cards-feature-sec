@@ -69,4 +69,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-###Checkout the [page live version](https://raw.githack.com/Qoosim/4-cards-feature-sec/master/index.html)
+Checkout the [page live version](https://raw.githack.com/Qoosim/4-cards-feature-sec/master/index.html)
